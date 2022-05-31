@@ -1,0 +1,117 @@
+{
+  "team": [
+    {
+      "name": "Abdukarimov D",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/11293709/pexels-photo-11293709.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Lara Croft",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/8366854/pexels-photo-8366854.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Shata Wale",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/1573010/pexels-photo-1573010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Abduraxmanov A",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Shata Wale",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/762080/pexels-photo-762080.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Shata Wale",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/1102343/pexels-photo-1102343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Shata Wale",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/1573010/pexels-photo-1573010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    },
+    {
+      "name": "Shata Wale",
+      "description": "Expert Tutor",
+      "image": "https://images.pexels.com/photos/1573010/pexels-photo-1573010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "urlInstagram": "https://instagram.com",
+      "urlTwitter": "https://instagram.com",
+      "urlLinkedin": "https://instagram.com"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.`,"
+    },
+
+    {
+      "title": "Responsive Social Media Website UI Design",
+      "image": "https://images.pexels.com/photos/5940837/pexels-photo-5940837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ut dolorum unde accusamus? Recusandae necessitatibus consequatur ex.,"
+    }
+  ]
+}
